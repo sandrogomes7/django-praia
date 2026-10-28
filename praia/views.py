@@ -1,3 +1,4 @@
+"""Code"""
 from django.http import JsonResponse
 from . import services, regras
 
